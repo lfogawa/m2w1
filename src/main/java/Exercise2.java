@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exercise2 {
+public class Exercise2 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite sua altura");

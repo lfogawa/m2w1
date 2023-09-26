@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise8 {
+public class Exercise8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite um valor inicial");

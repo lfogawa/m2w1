@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise4 {
+public class Exercise4 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Adivinhe qual número de 1 a 5 eu estou pensando");
